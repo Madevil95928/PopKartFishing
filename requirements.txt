@@ -1,0 +1,7 @@
+mss
+opencv-python
+numpy
+keyboard
+pyautogui
+pypiwin32
+colorama
